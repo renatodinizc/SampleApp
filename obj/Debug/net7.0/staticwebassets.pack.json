@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/renato/my-projects/dotnet-projects/SampleApp/wwwroot/moon.jpg",
+      "PackagePath": "staticwebassets/moon.jpg"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.SampleApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.SampleApp.props",
+      "PackagePath": "build\\SampleApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SampleApp.props",
+      "PackagePath": "buildMultiTargeting\\SampleApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SampleApp.props",
+      "PackagePath": "buildTransitive\\SampleApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

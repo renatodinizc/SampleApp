@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "QPpG0xTglKMkT8pSbl31fbC96yOMcIMYCPeKtYCQG1I=",
+  "Source": "SampleApp",
+  "BasePath": "_content/SampleApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SampleApp/wwwroot",
+      "Source": "SampleApp",
+      "ContentRoot": "/home/renato/my-projects/dotnet-projects/SampleApp/wwwroot/",
+      "BasePath": "_content/SampleApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/renato/my-projects/dotnet-projects/SampleApp/wwwroot/moon.jpg",
+      "SourceId": "SampleApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/renato/my-projects/dotnet-projects/SampleApp/wwwroot/",
+      "BasePath": "_content/SampleApp",
+      "RelativePath": "moon.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/moon.jpg"
+    }
+  ]
+}
